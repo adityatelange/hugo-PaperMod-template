@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "build": {
+    "env": {
+      "HUGO_VERSION": "0.112.4"
+    }
+  },
+  "buildCommand": "hugo --baseURL $VERCEL_URL"
+}
