@@ -1,4 +1,4 @@
-# hugo-PaperMod-template
+# Template for deploying a new site using [Hugo PaperMod](https://github.com/adityatelange/hugo-PaperMod?utm_source=hugo-PaperMod-template)
 
 ## Deploy with Vercel
 
